@@ -93,6 +93,10 @@ Download the latest plugin file from [Releases](https://github.com/MipaSenpai/Mi
 
 **For LeviLamina**: You need to have [LeviStone](https://github.com/LiteLDev/LeviStone) installed.
 
+> [!NOTE]
+> The plugin requires `aiohttp` to be installed in your Python environment! You can install it with:
+> `pip install aiohttp`
+
 ---
 
 ### Step 2️⃣: Launch the Web Server
